@@ -1,0 +1,6 @@
+include ':lib_common', ':processor', ':testjava', ':javaprojectlib',
+        ':module_app',
+        ':module_main',
+        ':module_girls',
+        ':module_news'
+        
