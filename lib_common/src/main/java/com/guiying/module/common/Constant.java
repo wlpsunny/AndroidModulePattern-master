@@ -8,4 +8,5 @@ public final class Constant {
 
     public static final String GirlsActivity = "/girls/list";
     public static final String NewsDetailActivity = "/news/detail";
+//    public static final String NewsDetailActivity = "/news/detail";
 }
